@@ -1,0 +1,1 @@
+This is  Python-based chatbot system of the university of poppleton with a Tkinter frontend that stores conversation history in JSON format. It features a user-friendly interface and allows users to view conversation history seamlessly.
