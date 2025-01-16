@@ -1,0 +1,402 @@
+[
+    {
+        "speaker": "Sharlin",
+        "message": "Hello mayanmi! Chat with Sharlin. Type 'bye' to exit."
+    },
+    {
+        "speaker": "mayanmi",
+        "message": "hi"
+    },
+    {
+        "speaker": "Sharlin",
+        "message": "Hello, mayanmi! How can I assist you?"
+    },
+    {
+        "speaker": "mayanmi",
+        "message": "how are you?"
+    },
+    {
+        "speaker": "Sharlin",
+        "message": "I'm doing well, mayanmi! How can I assist you today?"
+    },
+    {
+        "speaker": "mayanmi",
+        "message": "tell me the information that you have regarding programming"
+    },
+    {
+        "speaker": "Sharlin",
+        "message": "It's always a good idea to start with languages like Python or JavaScript."
+    },
+    {
+        "speaker": "mayanmi",
+        "message": "okay tell me about javascript"
+    },
+    {
+        "speaker": "Sharlin",
+        "message": "Modern frameworks like React and Node.js have made JavaScript incredibly versatile."
+    },
+    {
+        "speaker": "mayanmi",
+        "message": "bye"
+    },
+    {
+        "speaker": "Sharlin",
+        "message": "Sharlin: Goodbye mayanmi!"
+    },
+    {
+        "speaker": "Ram",
+        "message": "Hello Nasley! Chat with Ram. Type 'bye' to exit."
+    },
+    {
+        "speaker": "Nasley",
+        "message": "hi ram"
+    },
+    {
+        "speaker": "Ram",
+        "message": "Hello, Nasley! How can I assist you?"
+    },
+    {
+        "speaker": "Nasley",
+        "message": "tell me about cafe"
+    },
+    {
+        "speaker": "Ram",
+        "message": "The cafe also offers a variety of snacks and beverages."
+    },
+    {
+        "speaker": "Nasley",
+        "message": "another information that you have regarding cafe"
+    },
+    {
+        "speaker": "Ram",
+        "message": "The coffee bar is open every day from 8 AM to 8 PM."
+    },
+    {
+        "speaker": "Nasley",
+        "message": "i want to know about study space"
+    },
+    {
+        "speaker": "Ram",
+        "message": "You can reserve a study room ahead of time using the campus portal."
+    },
+    {
+        "speaker": "Nasley",
+        "message": "okay"
+    },
+    {
+        "speaker": "Ram",
+        "message": "Could you explain that again in a different way? I am here to help."
+    },
+    {
+        "speaker": "Nasley",
+        "message": "do you have any hobbies?"
+    },
+    {
+        "speaker": "Ram",
+        "message": "I am always eager to learn something new. What else can you tell me?"
+    },
+    {
+        "speaker": "Nasley",
+        "message": "bye"
+    },
+    {
+        "speaker": "Ram",
+        "message": "Ram: Goodbye Nasley!"
+    },
+    {
+        "speaker": "Morgan",
+        "message": "Hello caseon! Chat with Morgan. Type 'bye' to exit."
+    },
+    {
+        "speaker": "caseon",
+        "message": "hi"
+    },
+    {
+        "speaker": "Morgan",
+        "message": "Hello, caseon! How can I assist you?"
+    },
+    {
+        "speaker": "caseon",
+        "message": "tell me about programming languages"
+    },
+    {
+        "speaker": "Morgan",
+        "message": "Learning to program opens up opportunities in various fields like AI, web development, and data science."
+    },
+    {
+        "speaker": "caseon",
+        "message": "i want to learn java"
+    },
+    {
+        "speaker": "Morgan",
+        "message": "Learning Java is great for building Android apps or backend systems."
+    },
+    {
+        "speaker": "caseon",
+        "message": "bye"
+    },
+    {
+        "speaker": "Morgan",
+        "message": "Morgan: Goodbye caseon!"
+    },
+    {
+        "speaker": "Sharlin",
+        "message": "Hello samuel! Chat with Sharlin. Type 'bye' to exit."
+    },
+    {
+        "speaker": "samuel",
+        "message": "hi"
+    },
+    {
+        "speaker": "Sharlin",
+        "message": "Hello, samuel! How can I assist you?"
+    },
+    {
+        "speaker": "samuel",
+        "message": "i need to know the direction of library and cafe"
+    },
+    {
+        "speaker": "Sharlin",
+        "message": "To find the cafe, walk past the auditorium and it will be on your left.\nYou will find the library right next to the student center."
+    },
+    {
+        "speaker": "samuel",
+        "message": "bye"
+    },
+    {
+        "speaker": "Sharlin",
+        "message": "Sharlin: Goodbye samuel!"
+    },
+    {
+        "speaker": "Alice",
+        "message": "Hello samuel! Chat with Alice. Type 'bye' to exit."
+    },
+    {
+        "speaker": "samuel",
+        "message": "hi"
+    },
+    {
+        "speaker": "Alice",
+        "message": "Hello, samuel! How can I assist you today?"
+    },
+    {
+        "speaker": "samuel",
+        "message": "i want to know about your hobbies"
+    },
+    {
+        "speaker": "Alice",
+        "message": "I am curious to learn more! What is next on your mind?"
+    },
+    {
+        "speaker": "samuel",
+        "message": "what do you know about jav?"
+    },
+    {
+        "speaker": "Alice",
+        "message": "I may not know everything, but I will do my best to help you {username}!"
+    },
+    {
+        "speaker": "Casey",
+        "message": "Hello samuel! Chat with Casey. Type 'bye' to exit."
+    },
+    {
+        "speaker": "Casey",
+        "message": "Hello samuel! Chat with Casey. Type 'bye' to exit."
+    },
+    {
+        "speaker": "samuel",
+        "message": "hi"
+    },
+    {
+        "speaker": "Casey",
+        "message": "Hello, samuel! How can I assist you today?"
+    },
+    {
+        "speaker": "samuel",
+        "message": "how are you?"
+    },
+    {
+        "speaker": "Casey",
+        "message": "I'm doing well, samuel. How about you?"
+    },
+    {
+        "speaker": "samuel",
+        "message": "tell me about the direction of cafe and library"
+    },
+    {
+        "speaker": "Casey",
+        "message": "To find the cafe, walk past the auditorium and it will be on your left.\nWalk straight from the main entrance, and the library will be on your right."
+    },
+    {
+        "speaker": "samuel",
+        "message": "bye"
+    },
+    {
+        "speaker": "Casey",
+        "message": "Casey: Goodbye samuel!"
+    },
+    {
+        "speaker": "Alice",
+        "message": "Hello ayra! Chat with Alice. Type 'bye' to exit."
+    },
+    {
+        "speaker": "ayra",
+        "message": "hi"
+    },
+    {
+        "speaker": "Alice",
+        "message": "Hello, ayra! How can I assist you today?"
+    },
+    {
+        "speaker": "ayra",
+        "message": "how are you"
+    },
+    {
+        "speaker": "Alice",
+        "message": "I'm doing well, ayra. How about you?"
+    },
+    {
+        "speaker": "ayra",
+        "message": "tell me about music"
+    },
+    {
+        "speaker": "Alice",
+        "message": "That is very interesting ayra! Could you share more details about it?"
+    },
+    {
+        "speaker": "ayra",
+        "message": "what do you know about python"
+    },
+    {
+        "speaker": "Alice",
+        "message": "Python's syntax is simple and beginner-friendly, making it a great choice for new programmers."
+    },
+    {
+        "speaker": "ayra",
+        "message": "could you please tell me about library hours"
+    },
+    {
+        "speaker": "Alice",
+        "message": "There is a quiet area on the second floor of the library, perfect for studying.\nThe library is open 24/7 for your convenience."
+    },
+    {
+        "speaker": "ayra",
+        "message": "could you please tell me about library hours"
+    },
+    {
+        "speaker": "Alice",
+        "message": "If you're searching for a book, you can either check the online catalog or ask a librarian.\nThe library is open 24/7 for your convenience."
+    },
+    {
+        "speaker": "ayra",
+        "message": "exit"
+    },
+    {
+        "speaker": "Alice",
+        "message": "Alice: Goodbye ayra!"
+    },
+    {
+        "speaker": "Alice",
+        "message": "Hello Namer! Chat with Alice. Type 'bye' to exit."
+    },
+    {
+        "speaker": "Namer",
+        "message": "hi"
+    },
+    {
+        "speaker": "Alice",
+        "message": "Hello, Namer! How can I assist you today?"
+    },
+    {
+        "speaker": "Namer",
+        "message": "tell me about library hours"
+    },
+    {
+        "speaker": "Alice",
+        "message": "The library is open 24/7 for your convenience.\nIf you're searching for a book, you can either check the online catalog or ask a librarian."
+    },
+    {
+        "speaker": "Ram",
+        "message": "Hello namer! Chat with Ram. Type 'bye' to exit."
+    },
+    {
+        "speaker": "namer",
+        "message": "hi"
+    },
+    {
+        "speaker": "Ram",
+        "message": "Hello, namer! How can I assist you today?"
+    },
+    {
+        "speaker": "namer",
+        "message": "tell me about library hours"
+    },
+    {
+        "speaker": "Ram",
+        "message": "The library is open 24/7 for your convenience."
+    },
+    {
+        "speaker": "namer",
+        "message": "tell me about the direction of library and cafe"
+    },
+    {
+        "speaker": "Ram",
+        "message": "To find the cafe, walk past the auditorium and it will be on your left.\nYou will find the library right next to the student center."
+    },
+    {
+        "speaker": "namer",
+        "message": "bye"
+    },
+    {
+        "speaker": "Ram",
+        "message": "Ram: Goodbye namer!"
+    },
+    {
+        "speaker": "Alice",
+        "message": "Hello alex! Chat with Alice. Type 'bye' to exit."
+    },
+    {
+        "speaker": "alex",
+        "message": "hi"
+    },
+    {
+        "speaker": "Alice",
+        "message": "Hello, alex! How can I assist you today?"
+    },
+    {
+        "speaker": "alex",
+        "message": "how are you"
+    },
+    {
+        "speaker": "Alice",
+        "message": "I'm doing well, alex. How about you?"
+    },
+    {
+        "speaker": "alex",
+        "message": "tell me the direction of library and cafe"
+    },
+    {
+        "speaker": "Alice",
+        "message": "The cafe is located near the main entrance of the library. Head towards the east side.\nWalk straight from the main entrance, and the library will be on your right."
+    },
+    {
+        "speaker": "alex",
+        "message": "could you please tell me about library hours"
+    },
+    {
+        "speaker": "Alice",
+        "message": "The library is open 24/7 for your convenience."
+    },
+    {
+        "speaker": "alex",
+        "message": "what is python"
+    },
+    {
+        "speaker": "Alice",
+        "message": "Python is widely used for data science, AI, and web development."
+    },
+    {
+        "speaker": "Alice",
+        "message": "Hello alex! Chat with Alice. Type 'bye' to exit."
+    }
+]

@@ -1,0 +1,89 @@
+{
+    "agents": ["Alice", "Sharlin", "Ram", "Morgan", "Casey"],
+    "responses": {
+        "keywords": {
+            "cafe": {
+                "general": [
+                    "The coffee bar is open every day from 8 AM to 8 PM.",
+                    "Have you tried the espresso at the cafe? It's amazing!",
+                    "The cafe also offers a variety of snacks and beverages."
+                ],
+                "directions": [
+                    "To find the cafe, walk past the auditorium and it will be on your left.",
+                    "The cafe is located near the main entrance of the library. Head towards the east side.",
+                    "You will find the library right next to the student center."
+                ]
+            },
+            "library": {
+                "general": [
+                    "The library operates 24/7 for your convenience.",
+                    "If you're searching for a book, you can either check the online catalog or ask a librarian.",
+                    "There is a quiet area on the second floor of the library, perfect for studying."
+                ],
+                "directions": [
+                    "You will find the library right next to the student center.",
+                    "Walk straight from the main entrance, and the library will be on your right."
+                ]
+            },
+            "study": {
+                "general": [
+                    "The study rooms are available from 9 AM until 9 PM.",
+                    "We offer dedicated study spaces on both the second and third floors.",
+                    "You can reserve a study room ahead of time using the campus portal."
+                ]
+            },
+            "book": {
+                "general": [
+                    "To find a specific book, try using the library's catalog search.",
+                    "The majority of our books are located in the main section of the library.",
+                    "If you need help locating a book, the librarian is always available."
+                ]
+            },
+            "programming": {
+                "general": [
+                    "Programming is an essential skill in today's technology-driven world.",
+                    "Learning to program opens up opportunities in various fields like AI, web development, and data science.",
+                    "It's always a good idea to start with languages like Python or JavaScript."
+                ],
+                "python": [
+                    "Python is widely used for data science, AI, and web development.",
+                    "Python's syntax is simple and beginner-friendly, making it a great choice for new programmers.",
+                    "Libraries like NumPy, pandas, and TensorFlow make Python a powerful tool for complex tasks."
+                ],
+                "javascript": [
+                    "JavaScript is essential for web development, both on the front-end and back-end.",
+                    "Modern frameworks like React and Node.js have made JavaScript incredibly versatile.",
+                    "Learning JavaScript can help you build interactive websites and applications."
+                ],
+                "java": [
+                    "Java is a versatile language used in web development, mobile apps, and enterprise solutions.",
+                    "It's known for its 'write once, run anywhere' philosophy.",
+                    "Learning Java is great for building Android apps or backend systems."
+                ],
+                "c++": [
+                    "C++ is a high-performance language often used in game development and system programming.",
+                    "It's a good choice if you want to understand low-level programming concepts.",
+                    "C++ is commonly used for developing applications where speed and efficiency are critical."
+                ]
+            }
+        },
+        "random_responses": [
+            "That is very interesting {username}! Could you share more details about it?",
+            "I am not certain about that, but I am always eager to learn new things.",
+            "That is an excellent question! Let me take a moment to consider it.",
+            "I am not entirely sure about that {username}. Could you clarify what you mean?",
+            "I may not know everything, but I will do my best to help you {username}!",
+            "I am curious to learn more! What is next on your mind?",
+            "I am always eager to learn something new. What else can you tell me?"
+        ],
+        "multi_word_responses": {
+            "cafe hours": "The coffee bar serves drinks and snacks from 8 AM to 8 PM.",
+            "library hours": "The library is open 24/7 for your convenience.",
+            "study room": "Study rooms are available for use from 9 AM to 9 PM.",
+            "programming language": "There are many programming languages, each suited for different tasks. Python and JavaScript are great for beginners.",
+            "learn python": "Python is a great language to start with. It's easy to learn and widely used in many fields.",
+            "learn java": "Java is a powerful language, often used for mobile apps and enterprise applications."
+        }
+    },
+    "exit_commands": ["bye", "exit", "quit"]
+}
